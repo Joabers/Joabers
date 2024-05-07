@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Joabe Rodrigues de Souza</h1>
-<h3 align="center">Um entusiasta Fullstack</h3>
+<h3 align="center">Um entusiasta animado Fullstack</h3>
 
 <h3 align="left">Conecte-se comigo:< /h3>
 <p align="left">
